@@ -1,0 +1,29 @@
+{
+  "name": "fyp-final-2023",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-base": "^21.2.3",
+    "@syncfusion/ej2-vue-richtexteditor": "^21.2.4",
+    "@vueup/vue-quill": "^1.2.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.5",
+    "bootstrap-vue": "^2.23.1",
+    "db-quill-vue": "^1.0.2",
+    "firebase": "^9.22.0",
+    "pinia": "^2.0.36",
+    "vue": "^3.3.2",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^4.2.0",
+    "vue-upload-component": "^2.8.23"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.5"
+  }
+}
